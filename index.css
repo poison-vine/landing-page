@@ -68,7 +68,6 @@ section{display: block;}
     background-color: gray;
     justify-content: center;
     align-items: center;
-    border-radius: 10% 10%;
 }
 
 .hero-main-text{
@@ -85,3 +84,42 @@ section{display: block;}
     width: 75px;
     height:40px;
 }
+
+
+.content-area-2{
+    background-color: #f9faf8;
+    height:300px;
+    text-align: center;
+}
+
+.ctn-area2-header{
+    font-size: 36px;
+    font-weight: bolder;
+    margin: 0px;
+    color:#1F2937;
+}
+
+.ctn-a2-div{
+    display: flex;
+    justify-content: center;
+}
+
+.ctn-a2-figure {
+    border: 2px solid #3882f6;
+    border-radius: 10% 10% ;
+    width: 100px;
+    height: 100px;
+
+    
+}
+
+.ctn-a2-img
+{
+    width: 101px;
+    height: 101px;
+    border-radius: 10% 10% ;
+
+}
+
+
+
